@@ -1,0 +1,130 @@
+{
+  "name": "Animated Mining 301",
+  "students": [
+    {
+      "name": "Roy Atwell",
+      "id": 310,
+      "answers": [
+        {
+          "question_id": 4,
+          "answer": "Doglion"
+        },
+        {
+          "question_id": 499,
+          "answer": 0
+        },
+        {
+          "question_id": 90,
+          "answer": true
+        },
+        {
+          "question_id": 81,
+          "answer": [
+            "Spongiforma Squarepantsii",
+            "Toothed Jelly",
+            "Bug Sputnik"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pinto Colvig",
+      "id": 676,
+      "answers": [
+        {
+          "question_id": 4,
+          "answer": "Bip Bippadotta"
+        },
+        {
+          "question_id": 499,
+          "answer": 3
+        },
+        {
+          "question_id": 90,
+          "answer": true
+        },
+        {
+          "question_id": 81,
+          "answer": [
+            "Toothed Jelly",
+            "Pink Disco",
+            "Bug Sputnik",
+            "Moon Carrot Rust"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Otis Harlan",
+      "id": 546,
+      "answers": [
+        {
+          "question_id": 4,
+          "answer": "Beautiful Day Monster"
+        },
+        {
+          "question_id": 499,
+          "answer": 10
+        },
+        {
+          "question_id": 90,
+          "answer": false
+        },
+        {
+          "question_id": 81,
+          "answer": ["Toothed Jelly"]
+        }
+      ]
+    },
+    {
+      "name": "Scotty Mattraw",
+      "id": 741,
+      "answers": [
+        {
+          "question_id": 4,
+          "answer": "Doglion"
+        },
+        {
+          "question_id": 499,
+          "answer": 2
+        },
+        {
+          "question_id": 90,
+          "answer": false
+        },
+        {
+          "question_id": 81,
+          "answer": [
+            "Pink Disco",
+            "Scurfy Twiglet"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Billy Gilbert",
+      "id": 670,
+      "answers": [
+        {
+          "question_id": 4,
+          "answer": "Kermoot"
+        },
+        {
+          "question_id": 499,
+          "answer": 7
+        },
+        {
+          "question_id": 90,
+          "answer": false
+        },
+        {
+          "question_id": 81,
+          "answer": [
+            "Bug Sputnik",
+            "Moon Carrot Rust"
+          ]
+        }
+      ]
+    }
+  ]
+}

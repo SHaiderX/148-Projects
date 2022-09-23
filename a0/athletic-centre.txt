@@ -1,0 +1,78 @@
+Instructor 1 Diane
+Strength Training
+Stretching
+Yoga Teacher Training
+
+Instructor 2 David
+Cardio
+
+Instructor 3 Jennifer
+Cardio
+Strength Training
+
+Instructor 4 Michelle
+Cardio
+Stretching
+
+Instructor 5 Mario Badr
+Dance
+Stretching
+Yoga Teacher Training
+
+Class Boot Camp
+Cardio
+Strength Training
+
+Class Stretch & Relax
+Stretching
+
+Class Zumba
+Dance
+
+Class HIIT
+Cardio
+
+Class Fit Mix
+Strength Training
+Stretching
+
+Room FH1
+Field House East Side
+30
+
+Room FH2
+Field House North Side
+30
+
+Room FH3
+Field House South Side
+30
+
+Room DS
+Dance Studio
+20
+
+Offerings 2020-01-14 09:00
+1, Fit Mix, FH1
+3, Boot Camp, FH2
+5, Zumba, DS
+
+Offerings 2020-01-14 12:00
+5, Zumba, DS
+
+Offerings 2020-01-14 18:00
+1, Fit Mix, FH1
+2, HIIT, FH2
+3, Boot Camp, FH3
+
+Registrations 2020-01-14 09:00
+tom@gmail.com, Fit Mix
+rachel@hotmail.com, Boot Camp
+michael@outlook.com, Fit Mix
+ziwei@gmail.com, Fit Mix
+robert@yahoo.com, Boot Camp
+ravi@gmail.com, Zumba
+lucy@gmail.com, Fit Mix
+anoushka@hotmail.com, Boot Camp
+nada@msn.com, Boot Camp
+inaaya@gmail.com, Zumba

@@ -1,0 +1,72 @@
+{
+  "default_criterion": {
+    "class": "HomogeneousCriterion"
+  },
+  "default_weight": 10,
+  "questions": [
+    {
+      "question": {
+        "class": "MultipleChoiceQuestion",
+        "args": [
+          4,
+          "Which muppet would you most like to have dinner with?",
+          [
+            "Bip Bippadotta",
+            "Joe the Legal Weasel",
+            "Doglion",
+            "Beautiful Day Monster",
+            "Kermoot"
+          ]
+        ]
+      },
+      "criterion": {
+        "class": "HomogeneousCriterion"
+      },
+      "weight": 5
+    },
+    {
+      "question": {
+        "class": "NumericQuestion",
+        "args": [
+          499,
+          "How many moons do you wish the earth had?",
+          0,
+          10
+        ]
+      },
+      "criterion": {
+        "class": "HeterogeneousCriterion"
+      }
+    },
+    {
+      "question": {
+        "class": "YesNoQuestion",
+        "args": [
+          90,
+          "Do you think this is a good question to ask on a survey?"
+        ]
+      },
+      "criterion": {
+        "class": "LonelyMemberCriterion"
+      },
+      "weight": 1
+    },
+    {
+      "question": {
+        "class": "CheckboxQuestion",
+        "args": [
+          81,
+          "Which of the following types of mushroom have you seen?",
+          [
+            "Spongiforma Squarepantsii",
+            "Toothed Jelly",
+            "Pink Disco",
+            "Bug Sputnik",
+            "Moon Carrot Rust",
+            "Scurfy Twiglet"
+          ]
+        ]
+      }
+    }
+  ]
+}
